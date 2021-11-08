@@ -1,1 +1,1 @@
-# k8s-deployment-static-app
+To Deploy changes automatically in GKE
